@@ -60,4 +60,7 @@ Seeking an entry-level / junior Data Analyst opportunity where I can apply my an
 
 ---
 
-📫 Let’s connect on LinkedIn!
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kiranj0435
+- Email: kiran.j0435@gmail.com
