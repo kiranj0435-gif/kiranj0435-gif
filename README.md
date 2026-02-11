@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Kiran
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-DAX-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-DataVisualization-orange)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
 💡 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 
