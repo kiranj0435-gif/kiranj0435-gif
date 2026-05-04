@@ -16,6 +16,7 @@ I am currently building strong hands-on skills in:
 - Power BI (DAX, Data Modeling, Power Query)
 - Tableau (Interactive Dashboards & Data Visualization)
 - Excel
+- python (pandas, numpy ,matplotlib, seaborn)
 
 I enjoy solving business problems using data and turning raw datasets into clear, actionable insights.
 
